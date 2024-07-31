@@ -10,6 +10,8 @@
     background-position: bottom;
     background-size: cover;
     background-repeat: no-repeat;
+    margin-top: 54px;
+    padding-top: 2%;
 }
 /* about us */
 .about-section {
@@ -82,8 +84,9 @@
 .reviews h5{
     color: #343a40;
 }
-.carousel-inner{
+.carousel-inner img{
     height: 400px;
+    object-fit: cover;
     
 }
 
