@@ -81,14 +81,16 @@
     font-size: 1rem;
     color: #6c757d;
 }
-.reviews h5{
+.reviews-section h5{
     color: #343a40;
 }
 .carousel-inner img{
     height: 400px;
-    object-fit: cover;
+    object-fit:cover;
     
 }
+
+
 
 .footer {
     background-color: #343a40;
